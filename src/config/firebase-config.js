@@ -1,9 +1,9 @@
 export default {
-    apiKey: "AIzaSyCOl0qzkhCDmyWeeIT8AZe4xyJJlIfU5gE",
-    authDomain: "myaurapp.firebaseapp.com",
-    databaseURL: "https://myaurapp.firebaseio.com",
-    projectId: "myaurapp",
-    storageBucket: "myaurapp.appspot.com",
-    messagingSenderId: "419511997060",
-    appId: "1:419511997060:web:ce7aa0d308f6b484f868d1"
-}
+  apiKey: "AIzaSyCnxXD_fr2D7mBIPQBiXI3YdwN0OeKCNYA",
+  authDomain: "aura-main-9189c.firebaseapp.com",
+  projectId: "aura-main-9189c",
+  storageBucket: "aura-main-9189c.appspot.com",
+  messagingSenderId: "661676802897",
+  appId: "1:661676802897:web:43a14b200e4dbef173c970",
+  measurementId: "G-RMTR67H3XQ",
+};
